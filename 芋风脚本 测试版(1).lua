@@ -6,10 +6,11 @@ function Notify(Title1, Text1, Icon1, Time1)
     Duration = Time1,
   })
 end
-Notify("芋风脚本", "作者神不如风", "rbxassetid://17360377302", 3)
-Notify("永久免费", "祝你玩得开心","rbxassetid://17360377302",3)
-Notify("REhpoin", "永久免费","rbxassetid://17360377302",3)
-Notify("禁止圈钱", "缝合脚本","rbxassetid://17360377302",3)
+Notify("芋风中心", "作者神不如风", "rbxassetid://17360377302", 5)
+Notify("测试员", "露关大王","rbxassetid://17360377302",3)
+Notify("特别感谢", "krx与回响","rbxassetid://17360377302",3)
+Notify("芋风中心", "永久免费","rbxassetid://17360377302",3)
+Notify("禁止圈钱", "本作品为缝合脚本永久免费","rbxassetid://17360377302",3)
 Notify("启动完成", "祝你玩的开心","rbxassetid://17360377302",5)
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xcmsnd/DrRay-UI-Library/refs/heads/main/61%E7%A0%81.txt"))();		
