@@ -9,11 +9,11 @@ end
 Notify("芋风脚本", "作者神不如风", "rbxassetid://17360377302", 3)
 Notify("永久免费", "祝你玩得开心","rbxassetid://17360377302",3)
 Notify("REhpoin", "永久免费","rbxassetid://17360377302",3)
-Notify("拒绝跑路", "拒绝倒卖","rbxassetid://17360377302",3)
+Notify("禁止圈钱", "缝合脚本","rbxassetid://17360377302",3)
 Notify("启动完成", "祝你玩的开心","rbxassetid://17360377302",5)
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xcmsnd/DrRay-UI-Library/refs/heads/main/61%E7%A0%81.txt"))();		
-local Window = Library:new("REhpoin V2");
+local Window = Library:new("芋风中心 测试版");
 
 local creds = Window:Tab("公告",'7734068321')
 local bin = creds:section("信息",true)
