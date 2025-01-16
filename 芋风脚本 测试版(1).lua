@@ -6,7 +6,7 @@ function Notify(Title1, Text1, Icon1, Time1)
     Duration = Time1,
   })
 end
-Notify("REhpoin", "作者神不如风", "rbxassetid://17360377302", 3)
+Notify("芋风脚本", "作者神不如风", "rbxassetid://17360377302", 3)
 Notify("永久免费", "祝你玩得开心","rbxassetid://17360377302",3)
 Notify("REhpoin", "永久免费","rbxassetid://17360377302",3)
 Notify("拒绝跑路", "拒绝倒卖","rbxassetid://17360377302",3)
